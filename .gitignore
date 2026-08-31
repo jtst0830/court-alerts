@@ -1,0 +1,9 @@
+# Environment variables — never commit the real one
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
